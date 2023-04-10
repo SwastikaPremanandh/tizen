@@ -1,3 +1,3 @@
-# python-hello-world
+# tizen-studio-ide
 
-A simple program that displays “Hello, World!”. It's often used to illustrate the syntax of the language.
+A simple repo to implement tizen commands
